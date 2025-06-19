@@ -5,7 +5,7 @@ Implementation of a boilerplate pytorch trainer, with [wandb](https://wandb.ai/)
 ## Installation
 
 ```bash
-pip instal trainer_pytorch
+pip instal trainer-pytorch
 ```
 ## Usage
 
